@@ -10,7 +10,7 @@
 <div>
 
 ## All about the ISM.
-
+<div>
 <ul>
 
   <li><a href="index.html">Home</a></li>
@@ -22,6 +22,27 @@
   <li><a href="people.html">List of scholars I read about.</a></li>
 
 </ul>
+</div>
+
+### Futurism
+
+### Surrealism
+
+### Expressionism
+
+### High Modernism
+
+### Experimentalism
+
+### Empiricism
+
+### Positivism
+
+
+
+
+
+
 
 </div>
 </body>
