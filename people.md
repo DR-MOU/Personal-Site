@@ -1,4 +1,8 @@
 ## List of Scholars.
-<a href="index.html">Home</a>
+
+**[Home](index.html)**
+
 
 ### Mikhail Bakhtin {#mikhailbakhtin}
+
+### My Great Heading {#custom-id}

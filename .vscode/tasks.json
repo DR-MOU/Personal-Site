@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gulp",
+			"task": "markdown",
+			"problemMatcher": [],
+			"label": "gulp: markdown",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
