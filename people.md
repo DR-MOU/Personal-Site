@@ -11,7 +11,7 @@
 
 
 ## List of Scholars I read about.
-
+<div>
 <ul>
 
   <li><a href="index.html">Home</a></li>
@@ -24,7 +24,7 @@
 
 </ul>
 
-###
+</div>
 
 ### Mikhail Bakhtin 
 
