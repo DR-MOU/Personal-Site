@@ -26,6 +26,8 @@
 
 </div>
 
+<div>
+
 ### Mikhail Bakhtin 
 
 ### Shklovsky
@@ -73,6 +75,11 @@
 ### Jacques Ranciere
 
 ### Charles Peirce
+
+</div>
+
+
+
 
 
 </div>
