@@ -12,7 +12,17 @@
 
 ## Publications
 
-**[Home](index.html)**
+<ul>
+
+  <li><a href="index.html">Home</a></li>
+
+  <li><a href="pub.html">Publications</a></li>
+
+  <li><a href="ism.html">All about the ISM</a></li>
+
+  <li><a href="people.html">List of scholars I read about.</a></li>
+
+</ul>
 
 
 </div>
