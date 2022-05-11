@@ -34,7 +34,7 @@
 
 </div>
 
-<div>
+<div class="content">
 
 ### Mikhail Bakhtin 
 

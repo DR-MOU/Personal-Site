@@ -20,9 +20,9 @@
 
 ## Dr. Mou's page.
 
-## Ph.D. in Arts / Independent Researcher
+### Ph.D. in Arts / Independent Researcher
 
-Interested in Japanese Animations, Films, and Games.
+##### Interested in Japanese Animations, Films, and Games.
 
 </div>
 
@@ -46,6 +46,11 @@ Interested in Japanese Animations, Films, and Games.
 </ul>
 </div>
 
+<div class="content">
+
+### content
+
+</div>
 
 </body>
 </html>

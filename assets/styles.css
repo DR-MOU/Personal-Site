@@ -17,6 +17,11 @@ body {
   height: 300px;
 }
 
+.content{
+  width:1000px;
+  height:auto;
+}
+
 ul {
     list-style-type: none;
     margin: 0;

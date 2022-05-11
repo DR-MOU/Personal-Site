@@ -11,7 +11,9 @@
 
 ## Publications
 
-</div class="guider">
+</div >
+
+<div class="guider">
 <ul>
 
   <li><a href="index.html">Home</a></li>
@@ -29,7 +31,13 @@
   <li><a href="people.html">List of scholars I read about.</a></li>
 
 </ul>
+</div>
 
+<div class="content">
+
+### content
+
+</div>
 
 
 </body>
