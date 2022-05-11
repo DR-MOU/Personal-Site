@@ -22,7 +22,7 @@
 
 ### Ph.D. in Arts / Independent Researcher
 
-##### Interested in Japanese Animations, Films, and Games.
+
 
 </div>
 
@@ -48,7 +48,8 @@
 
 <div class="content">
 
-### content
+Interested in Japanese Animations, Films, and Games.
+
 
 </div>
 
