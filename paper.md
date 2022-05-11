@@ -7,9 +7,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet">
 </head>
 <body>
-<div>
+<div  class="title">
 
-## Title
+## Books and Papers I read about.
+
+</div>
 
 <div>
 <ul>
@@ -40,6 +42,6 @@
 
 
 
-</div>
+
 </body>
 </html>

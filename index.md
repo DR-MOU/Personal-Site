@@ -16,13 +16,15 @@
 
 <body>
 
-<div>
+<div class="title">
 
 # Dr. Mou's page.
 
 ## Ph.D. in Arts / Independent Researcher
 
 Interested in Japanese Animations, Films, and Games.
+
+</div>
 
 <ul>
 
@@ -43,7 +45,7 @@ Interested in Japanese Animations, Films, and Games.
 </ul>
 
 
-</div>
+
 </body>
 </html>
 

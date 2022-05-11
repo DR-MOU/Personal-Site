@@ -12,6 +12,10 @@ div{
   clear:both;
 }
 
+.title{
+  width: 1000px;
+  height: 300px;
+}
 
 ul {
     list-style-type: none;

@@ -7,11 +7,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet">
 </head>
 <body>
-<div>
-
+<div class="title">
 
 ## Publications
 
+</div>
 <ul>
 
   <li><a href="index.html">Home</a></li>
@@ -31,6 +31,6 @@
 </ul>
 
 
-</div>
+
 </body>
 </html>

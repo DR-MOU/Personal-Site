@@ -7,10 +7,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet">
 </head>
 <body>
-<div>
-
+<div class="title">
 
 ## List of Scholars I read about.
+
+</div>
+
 <div>
 <ul>
 
@@ -88,6 +90,6 @@
 
 
 
-</div>
+
 </body>
 </html>
