@@ -24,6 +24,8 @@
 </ul>
 </div>
 
+
+<div>
 ### Futurism
 
 ### Surrealism
@@ -39,7 +41,7 @@
 ### Positivism
 
 
-
+</div>
 
 
 
