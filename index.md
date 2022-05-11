@@ -18,7 +18,7 @@
 
 <div class="title">
 
-# Dr. Mou's page.
+## Dr. Mou's page.
 
 ## Ph.D. in Arts / Independent Researcher
 
@@ -26,6 +26,7 @@ Interested in Japanese Animations, Films, and Games.
 
 </div>
 
+<div class="guider">
 <ul>
 
   <li><a href="index.html">Home</a></li>
@@ -43,7 +44,7 @@ Interested in Japanese Animations, Films, and Games.
   <li><a href="people.html">List of scholars I read about.</a></li>
 
 </ul>
-
+</div>
 
 
 </body>

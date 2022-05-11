@@ -11,7 +11,7 @@
 
 ## Publications
 
-</div>
+</div class="guider">
 <ul>
 
   <li><a href="index.html">Home</a></li>

@@ -5,14 +5,14 @@ body {
 	float: none; 
 }
 
-div{
-  width: 1000px;
-  margin: 25px;
-  float:none;
-  clear:both;
-}
+
 
 .title{
+  width: 1000px;
+  height: 300px;
+}
+
+.guider{
   width: 1000px;
   height: 300px;
 }
@@ -26,7 +26,6 @@ ul {
   
   
   li {
-    width: 100 px;
     float: left;
   }
 
