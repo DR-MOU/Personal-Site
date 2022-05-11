@@ -28,9 +28,15 @@ Interested in Japanese Animations, Films, and Games.
 
   <li><a href="index.html">Home</a></li>
 
-  <li><a href="pub.html">Publications</a></li>
+  <li><a href="pub.html">My Publications</a></li>
 
-  <li><a href="ism.html">All about the ISM</a></li>
+  <li><a href="paper.html">Books and Papers I read about.</a></li>
+
+  <li><a href="ism.html">All about the ISM.</a></li>
+
+  <li><a href="theory.html">Theories I read about.</a></li>
+
+  <li><a href="thesis.html">Master, Ph.D. Theses & Dissertations I read about.</a></li>
 
   <li><a href="people.html">List of scholars I read about.</a></li>
 

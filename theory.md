@@ -9,8 +9,8 @@
 <body>
 <div>
 
+## Theories I read about.
 
-## List of Scholars I read about.
 <div>
 <ul>
 
@@ -34,57 +34,9 @@
 
 <div>
 
-### Mikhail Bakhtin 
-
-### Shklovsky
-
-### Eikhenbaum
-
-### Tynyanov
-
-### Lev Vygotsky
-
-### Roman Jakobson
-
-### Jan Mukarovsky
-
-### Christian Metz
-
-### Theodor Adorno
-
-### Georges Duhamel
-
-### Arnold Schoenberg
-
-### James Joyce
-
-### Max Horkheimer
-
-### Noel Carroll
-
-### Bertolt Brecht
-
-### Walter Benjamin
-
-### Rudolf Arnheim
-
-### Bela Balazs
-
-### Cesare Zavattini
-
-### Guido Aristarco
-
-### Georg Lukacs
-
-### Antonio Gramsci
-
-### Jacques Ranciere
-
-### Charles Peirce
+### content
 
 </div>
-
-
 
 
 
