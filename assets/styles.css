@@ -14,7 +14,7 @@ body {
 
 .guider{
   width: 1000px;
-  height: 85px;
+  height: 65px;
 }
 
 .content{
@@ -37,6 +37,7 @@ ul {
   li a {
     display: block;
     color: #000;
+    padding: 10px;
     text-decoration: none;
   }
 
