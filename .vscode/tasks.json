@@ -6,7 +6,7 @@
 		{
 			"label": "DR-M Markdown",
 			"type": "shell",
-			"command": "commonmark ism.md > ism.html",
+			"command": "commonmark index.md > index.html",
 			"group": {
 				"kind": "build",
 				"isDefault": true
